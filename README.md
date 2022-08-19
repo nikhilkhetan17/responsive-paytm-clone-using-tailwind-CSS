@@ -1,4 +1,4 @@
-## ⭐Paytm Clone Using Tailwind CSS⭐
+## ⭐Responsive Paytm Clone Using Tailwind CSS⭐
 
 <br>
 
