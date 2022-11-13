@@ -1,5 +1,7 @@
 ## ⭐Responsive Paytm Clone Using Tailwind CSS⭐
 
+## This website is for education purpose only
+
 <br>
 
 ## 📌 Live Site URL: <a href="https://paytmclonetailwind.netlify.app">**Visit Now**</a>
