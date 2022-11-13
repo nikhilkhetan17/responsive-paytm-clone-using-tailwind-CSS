@@ -4,7 +4,7 @@
 
 <br>
 
-## 📌 Live Site URL: <a href="https://paytmclonetailwind.netlify.app">**Visit Now**</a>
+## 📌 Live Site URL: <a href="https://nopaytmclonetailwind.netlify.app">**Visit Now**</a>
 
 <br>
 
