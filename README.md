@@ -1,6 +1,6 @@
 ## ⭐Responsive Paytm Clone Using Tailwind CSS⭐
 
-## This website is for education purpose only
+## This website is for educational purpose only
 
 <br>
 
