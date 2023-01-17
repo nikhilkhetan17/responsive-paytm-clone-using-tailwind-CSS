@@ -10,7 +10,7 @@
 
 ## 📌 Screenshot:
 
-![project1](./assets/paytm.png)
+![project1](./paytm.png)
 
 <br>
 
